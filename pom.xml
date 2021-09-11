@@ -37,7 +37,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <common-lang.version>3.8</common-lang.version>
         <commons-fileupload.version>1.3.1</commons-fileupload.version>
         <commons-io>2.4</commons-io>
-        <mysql.version>5.1.45</mysql.version>
+        <mysql.version>8.0.21</mysql.version>
         <gson.version>2.6.1</gson.version>
         <druid.version>1.0.16</druid.version>
         <javax-validation.version>1.1.0.Final</javax-validation.version>
